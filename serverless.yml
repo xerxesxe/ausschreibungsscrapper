@@ -1,0 +1,13 @@
+
+
+service: linkedinscrapper
+app: linkedinscrapper-app
+org: jonashettwer
+
+provider:
+  name: aws
+  runtime: nodejs10.x
+
+functions:
+  linkedinscrapper:
+    handler: handler.linkedinscrapper
