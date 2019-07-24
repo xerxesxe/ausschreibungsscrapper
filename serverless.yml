@@ -2,7 +2,7 @@
 
 service: linkedinscrapper
 app: linkedinscrapper-app
-org: jonashettwer
+org: xerxesxe
 
 provider:
   name: aws
