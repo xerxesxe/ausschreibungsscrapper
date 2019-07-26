@@ -2,7 +2,7 @@
 
 service: linkedinscrapper
 app: linkedinscrapper-app
-org: xerxesxe
+tenant: jonashettwer
 
 provider:
   name: aws
