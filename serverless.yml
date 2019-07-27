@@ -1,13 +1,11 @@
-
-
-service: linkedinscrapper
-app: linkedinscrapper-app
-tenant: jonashettwer
+service: scrapper
+app: ausschreibungsscrapper
+org: jonashettwer
 
 provider:
   name: aws
   runtime: nodejs10.x
 
 functions:
-  linkedinscrapper:
-    handler: handler.linkedinscrapper
+  scrapper:
+    handler: handler.scrapper
