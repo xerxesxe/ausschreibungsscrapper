@@ -1,6 +1,6 @@
 service: scrapper
 app: ausschreibungsscrapper
-org: jonashettwer
+org: xxxxxxxxxx
 
 provider:
   name: aws
